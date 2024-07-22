@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: black;
+        }
+        .search{
+            width: 500px;
+            height: 40px;
+            margin-left: 507px;
+            margin-top: -550px;
+        }
+        .vid1{
+            margin-top: 10vh;
+            color: white;
+            width: 782px;
+
+        }
+        .vid2{
+            float: left;
+            margin-left: 1045px;
+            margin-top: -820px;
+            color: white;
+        }
+        .vid3{
+            float: left;
+            margin-left: 1045px;
+            margin-top: -537px;
+            color: white;
+        }
+        .vid4{
+            float: left;
+            margin-left: 1045px;
+            margin-top: -271px;
+            color: white;
+        }
+        .vid5{
+            float: left;
+            margin-left: 1045px;
+            margin-top: -7px;
+            color: white;
+        }
+        .vid6{
+            float: left;
+            margin-left: 1045px;
+            margin-top: 0px;
+            color: white;
+        }
+        .img{
+            margin-bottom:-80px;
+        }
+        .like {
+
+        margin-top: -8vh;
+        height: 6pc;
+        width: 15pc;
+        margin-left: 760px;
+    }
+        
+
+    </style>
+</head>
+<body>
+    <div class="img">
+        <img src="youtube-logo.jpeg" alt="" width="200px" >
+    </div>
+    
+        <input type="text" class="search" placeholder="Search" name="search">
+    <div class="vid1">
+        <iframe width="1000" height="600" src="https://www.youtube.com/embed/wiur_AGatGU?si=UIonmUDFo0Ts1irg"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis error blanditiis ea molestiae, voluptate modi a hic voluptas dicta reprehenderit labore voluptatibus cum vero illum possimus maxime, beatae mollitia illo amet. Labore, voluptatum odit animi, fuga sit quis molestias qui non, ipsum reprehenderit id cumque consectetur nemo itaque porro ea?</p>
+        <h2>UNKNOWN - MOVIE Full Song Video | Ganesh, Kriti Kharbanda</h2>
+        <div>
+            <h3>SHIVAKUMAR CHANNEL</h3>
+        </div>
+        <div>
+            <img class="like" src="like.jpeg">
+        </div>
+    </div>
+    <div class="vid2">
+        <iframe width="400" height="140" src="https://www.youtube.com/embed/nGeHstBtoH0?si=28N6g62pEGmv7FTr"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora illum, voluptate debitis ex illo accusamus.</p>
+    </div>
+    <div class="vid3">
+        <iframe width="400" height="200" src="https://www.youtube.com/embed/nGeHstBtoH0?si=28N6g62pEGmv7FTr"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt, quidem.</p>
+    </div>
+    <div class="vid4">
+        <iframe width="400" height="200" src="https://www.youtube.com/embed/nGeHstBtoH0?si=28N6g62pEGmv7FTr"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt, quidem.</p>
+    </div>
+    <div class="vid5">
+        <iframe width="400" height="200" src="https://www.youtube.com/embed/nGeHstBtoH0?si=28N6g62pEGmv7FTr"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt, quidem.</p>
+    </div>
+    <div class="vid6">
+        <iframe width="400" height="200" src="https://www.youtube.com/embed/nGeHstBtoH0?si=28N6g62pEGmv7FTr"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt, quidem.</p>
+    </div>
+    
+</body>
+</html>
